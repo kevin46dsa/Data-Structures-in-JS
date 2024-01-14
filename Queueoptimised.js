@@ -34,7 +34,7 @@ class Queue{
             this.rear = 0
             this.front = 0
         }
-        return bool
+        else return bool
     }
 
     print(){
